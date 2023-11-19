@@ -4,7 +4,7 @@ Paste From [kristofhracza](https://github.com/kristofhracza) | tim_appl
 
 
 How to use?
-1. Download [client.dll.json](https://reurl.cc/1GA8AV) and [offsets.json]([https://reurl.cc/1GA8AV](https://reurl.cc/edlp2x)
+1. Download [client.dll.json](https://reurl.cc/1GA8AV) and [offsets.json]{https://reurl.cc/1GA8AV}
 2. Pls these files in the same folder as the executable file 4KiaR-Beta.exe is
 
 
