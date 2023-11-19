@@ -10,10 +10,15 @@ How to use?
 
 
 
+
    Update:
    V1
    Fix Bunny Hop!
    New menu
-   [4KiaR](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/92080f5b-b50d-435f-9742-6d5953edd3f1)
-[4KiaR](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/8c8e1880-afd6-4950-b380-54875317cb95)
-[4KiaR](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/ac12ff6e-2512-4a3d-983d-f27033d7feef)
+   
+[Legit bot](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/92080f5b-b50d-435f-9742-6d5953edd3f1)
+
+[ESP](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/8c8e1880-afd6-4950-b380-54875317cb95)
+
+[Misc](https://github.com/Y4aa/4KiaR-CS2/assets/151437327/ac12ff6e-2512-4a3d-983d-f27033d7feef)
+
